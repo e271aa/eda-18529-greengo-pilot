@@ -1,5 +1,7 @@
 # EDA GreenGo — Sistema de Mobilidade Elétrica
 
+> ⚠️ **Versão Pilot** — Esta é a versão inicial do projeto. Para a versão final e melhorada, consulta [eda-18529-greengo](https://github.com/e271aa/eda-18529-greengo).
+
 Projeto académico desenvolvido no âmbito da cadeira de **Estruturas de Dados Avançadas (EDA)**.
 
 O sistema simula a gestão de uma empresa de mobilidade elétrica chamada **GreenGo**, permitindo gerir meios de transporte elétricos e clientes através de uma interface de consola em modo menu.
